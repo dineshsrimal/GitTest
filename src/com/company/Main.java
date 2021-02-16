@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("CR1 change");
+        System.out.println("CR1 change 2");
     }
 }
